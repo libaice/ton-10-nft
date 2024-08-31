@@ -1,0 +1,1 @@
+int op::get_royalty_params() asm "0x693d3950 PUSHINT";
